@@ -1,0 +1,1 @@
+<h1>Resident Register</h1>
