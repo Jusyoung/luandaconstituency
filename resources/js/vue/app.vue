@@ -1,6 +1,6 @@
 <template>
 	<div>
-		Laravel with Vue js.
+		jnjkbkj.
 	</div>
 </template>
 <script>

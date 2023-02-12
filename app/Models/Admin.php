@@ -10,4 +10,9 @@ use Illuminate\Foundation\Auth\User as Authenticatable;
         protected $hidden = [
             'password', 'remember_token',
         ];
+
+        public function photo()
+        {
+          return $this->belongsTo('App\Models\Photo');
+        }
 }
